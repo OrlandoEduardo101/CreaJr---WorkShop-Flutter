@@ -5,4 +5,5 @@ Repositorio do Workshop: Iniciando no Flutter com Mobx e Modular ministrado por 
 Nesse repositório contem os Slides na pasta slides, o aplicativo teste que eu fiz previamente e o aplicativo que fizemos na palestra em tempo real, ambos devidamente identificados.
 
 Dia 1: https://youtu.be/fgVFddVNtc4
+
 Dia 2: https://youtu.be/r6LiKqr4ukY
